@@ -23,4 +23,4 @@ Use to generate file:
         rowCount: 4
     }
 
-json2txt.generateTxtFile(filePath,options);
+json2txt.txt2json(filePath,options);

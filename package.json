@@ -14,5 +14,14 @@
     "txttojson",
     "txt-json"
   ],
-  "author": "Sundarrajan,rajni.sundar@gmail.com"
+  "author": "Sundarrajan,rajni.sundar@gmail.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hephesthesis/txt2json.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hephesthesis/txt2json.git/issues"
+  },
+  "homepage": "https://github.com/hephesthesis/txt2json.git#readme"
 }
